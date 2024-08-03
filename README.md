@@ -32,7 +32,3 @@ I hold a Bachelor's degree in Mathematics and a Master's in Applied Computationa
 </p>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ekaterina-golubeva-53462b196/) or drop me an email at [golubevakatusha@gmail.com](mailto:golubevakatusha@gmail.com)! Let's make the digital world a healthier place, one image at a time!
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
